@@ -7,4 +7,6 @@
 
 4. 🤡 Clase (OOP): Modelo que define propiedades y metodos para crear objetos.
 
+5.  🎮 Diagramas de clases: Modelo que muestra clases, atributos y relaciones en un sistema
+
 
